@@ -1,1 +1,1 @@
-﻿#OK, Bu repo for teaching
+﻿# OK, Bu repo for teaching
